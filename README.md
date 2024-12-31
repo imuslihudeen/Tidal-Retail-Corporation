@@ -16,9 +16,9 @@ This dashboard helps Tidal, a leading retail corporation specializing in office 
 
  Step 6 : New measure was created to find projected sales and projected profit.
 
-       % Projected Sales = SUM(DIVIDFacts[Sales])1.40
+       % Projected Sales = SUM(Facts[Sales])1.40
 
-         % Projected Profit = SUM(DIVIDFacts[Profit])1.20
+         % Projected Profit = SUM(Facts[Profit])1.20
 
 
 Following DAX expression was written for the same,
